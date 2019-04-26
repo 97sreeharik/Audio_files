@@ -33,6 +33,8 @@ Now, download the zip of this repository, extract and open terminal inside the "
 
 run simple_recognizer.py with python2.7 . (make sure u change the model directory path in the code)
 
+* U may also run the malayalam speech to text using pocketsphinx using the models provided in the corresponding folders using the documentation provided in the [page](https://cmusphinx.github.io/wiki/tutorialadapt/)
+
 ## what are the folders and whats inside them :
 
 * Malayalam_acoustic_model _new_limited	: This folder contains acoustic model files which are made with sphinx tools for limited context audio recordings and transcriptions
